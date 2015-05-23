@@ -33,7 +33,7 @@ You can change the number of images in a row by changing numbers.
 
 == Screenshots ==
 
-1.assets/banner-1544x500.png
+1.assets/banner-772x250.png
 
 == Changelog ==
 
