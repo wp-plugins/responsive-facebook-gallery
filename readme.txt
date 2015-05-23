@@ -31,6 +31,9 @@ An online demo can be found at http://www.pixsols.com/test/wordpress/facebook-ga
 = What does the column parameter do =
 You can change the number of images in a row by changing numbers.
 
+== Screenshots ==
+
+1.assets/banner-1544x500.png
 
 == Changelog ==
 
