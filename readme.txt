@@ -33,7 +33,7 @@ You can change the number of images in a row by changing numbers.
 
 == Screenshots ==
 
-1.assets/banner-772x250.png
+1.http://ps.w.org/responsive-facebook-gallery/assets/banner-772x250.png
 
 == Changelog ==
 
