@@ -4,7 +4,7 @@ Donate link: http://pixsols.com/test/wordpress/support-us/
 Tags: jquery, facebook gallery, responsive, bootstrap
 Requires at least: 4.0
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,12 +33,17 @@ You can change the number of images in a row by changing numbers.
 
 == Screenshots ==
 
-<img src="http://plugins.svn.wordpress.org/responsive-facebook-gallery/assets/banner-772%c3%97250.png" />
+http://plugins.svn.wordpress.org/responsive-facebook-gallery/assets/screenshot-1.jpg
+http://plugins.svn.wordpress.org/responsive-facebook-gallery/assets/screenshot-2.jpg
+http://plugins.svn.wordpress.org/responsive-facebook-gallery/assets/screenshot-3.jpg
 
 == Changelog ==
 
 = 1.0 =
 This is the first release of the plugin.
+
+= 1.1 =
+fixed image issue.
 
 == Upgrade Notice ==
 
