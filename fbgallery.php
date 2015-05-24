@@ -3,7 +3,7 @@
 Plugin Name: Responsive Facebook Gallery
 Plugin URI: http://www.pixsols.com/test/wordpress/facebook-gallery/
 Description: Responsive facebook gallery, just plug and play.
-Version: 1.0
+Version: 1.1
 Author: Abbas
 Author URI: http://www.pixsols.com/
 */
@@ -28,7 +28,7 @@ if ( ! class_exists( 'Fbgallery' ) ) {
 		 * Current version of the plugin.
 		 * @var string
 		 */
-		protected $version = '1.0';
+		protected $version = '1.1';
 
 		/**
 		 * List of options to determine plugin behaviour.
