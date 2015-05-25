@@ -33,7 +33,7 @@ You can change the number of images in a row by changing numbers.
 
 == Screenshots ==
 
-http://plugins.svn.wordpress.org/responsive-facebook-gallery/assets/screenshot-1.png
+<img src='http://plugins.svn.wordpress.org/responsive-facebook-gallery/assets/screenshot-1.png' />
 
 http://plugins.svn.wordpress.org/responsive-facebook-gallery/assets/screenshot-2.png
 
