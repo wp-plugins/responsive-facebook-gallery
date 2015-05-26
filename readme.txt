@@ -36,12 +36,12 @@ You can change the number of images in a row by changing numbers.
 == Changelog ==
 
 = 1.0 =
-This is the first release of the plugin.
+initial release of the plugin.
 
 = 1.1 =
 fixed image issue.
 
 == Upgrade Notice ==
 
-= 1.0 =
-This is the first version so no upgrade required :)
+= 1.1 =
+Image issue fixed, please update
