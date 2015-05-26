@@ -12,7 +12,7 @@ Responsive facebook gallery, just plug and play
 
 == Description ==
 
-Responsive Facebook Gallery is a responsive facebook gallery, helps you to integrate Facebook gallery easily to your website in 3 easy steps.
+Responsive Facebook Gallery is a responsive facebook gallery, helps you to integrate Facebook gallery easily to your website in few easy steps.
 
 Create Facebook app and get App ID and Security ID
 Go to Setting -> Reading and enter App ID and Security ID.
@@ -24,7 +24,8 @@ An online demo can be found at http://pixsols.com/test/wordpress/responsive-face
 
 1. Unzip and upload the `facebookgallery` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Use the shortcode `[fbgallery url='FACEBOOK GALLERY COMPLETE URL' column='{1,2,3,4,6}']` in your posts or pages.
+3. Goto to reading page under setting and enter your facebook APP ID and App Secret key
+4. Use the shortcode `[fbgallery url='FACEBOOK GALLERY COMPLETE URL' column='{1,2,3,4,6}']` in your posts or pages.
 
 == Frequently Asked Questions ==
 
