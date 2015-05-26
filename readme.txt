@@ -18,7 +18,7 @@ Create Facebook app and get App ID and Security ID
 Go to Setting -> Reading and enter App ID and Security ID.
 Now enter shortcode to the page where you want to display Facebook gallery
 
-An online demo can be found at http://www.pixsols.com/test/wordpress/facebook-gallery/.
+An online demo can be found at http://pixsols.com/test/wordpress/responsive-facebook-gallery/.
 
 == Installation ==
 
