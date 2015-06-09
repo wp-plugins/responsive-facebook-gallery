@@ -12,7 +12,9 @@ Responsive facebook gallery, just plug and play
 
 == Description ==
 
-Responsive Facebook Gallery is a responsive facebook gallery, helps you to integrate Facebook gallery easily to your website in few easy steps.
+Responsive Facebook Gallery helps you to integrate facebook gallery easily to your website in few easy steps.
+
+It is compatible with all major browsers IE8+, firefox, chrome, safari, opera and android browsers
 
 Create Facebook app and get App ID and Security ID
 Go to Setting -> Reading and enter App ID and Security ID.
